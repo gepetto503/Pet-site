@@ -4,5 +4,9 @@ h1{
 }
 
 li{
-  font-size: 1px;
+  font-size: 16px;
+}
+
+.undotted {
+  list-style-type: none;
 }
